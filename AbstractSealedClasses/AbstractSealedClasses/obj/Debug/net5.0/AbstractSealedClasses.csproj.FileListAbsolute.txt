@@ -1,0 +1,15 @@
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/bin/Debug/net5.0/AbstractSealedClasses.deps.json
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/bin/Debug/net5.0/AbstractSealedClasses.runtimeconfig.json
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/bin/Debug/net5.0/AbstractSealedClasses.runtimeconfig.dev.json
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/bin/Debug/net5.0/AbstractSealedClasses.dll
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/bin/Debug/net5.0/ref/AbstractSealedClasses.dll
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/bin/Debug/net5.0/AbstractSealedClasses.pdb
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.csprojAssemblyReference.cache
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.AssemblyInfoInputs.cache
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.AssemblyInfo.cs
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.csproj.CoreCompileInputs.cache
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.dll
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/ref/AbstractSealedClasses.dll
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.pdb
+/Users/rob/Projects/AbstractSealedClasses/AbstractSealedClasses/obj/Debug/net5.0/AbstractSealedClasses.genruntimeconfig.cache
